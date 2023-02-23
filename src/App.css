@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+nav{
+  height:6vh;
+  background-color: #444;
+  color:#fff;
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  padding:10px;
+}
+
+ul{
+  list-style-type:none;
+  display: flex;
+}
+
+a{
+  text-decoration: none;
+  color:#fff;
+}
+
+li{
+  margin:0px 10px 0px 10px;
+}
