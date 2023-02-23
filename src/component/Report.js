@@ -44,6 +44,7 @@ const Reports = () => {
           if (isRootLevel) {
             return 'Net Income';
           }
+          return 'Sub Total'
         },
       }
     };
