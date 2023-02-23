@@ -9,6 +9,8 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+##live demo: https://www.loom.com/share/26524366f18a4c30adc00009ca4fe718
+
 <img width="1635" alt="image" src="https://user-images.githubusercontent.com/12931325/221016506-01bf96aa-88d2-4317-8ec3-d301576df8d5.png">
 
 
